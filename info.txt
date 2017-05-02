@@ -1,0 +1,28 @@
+Used Libraries:
+
+Wire.h (standart)
+
+Adafruit_INA219.h
+https://github.com/adafruit/Adafruit_INA219
+
+DHT.h
+https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/Adafruit_Sensor
+
+SFE_BMP180.h
+https://github.com/sparkfun/BMP180_Breakout
+
+Used hardware modules:
+Main module: Arduino Uno (Atmega328)
+gyro sensor: GY-521
+current sensor: INA219
+pressure sensor: BMP180
+humidity sensor: DHT11
+bluetooth module: HC-06
+Solar Panel: 5V 2W 0.39A
+
+Also planned to use:
+Compas HMC5983
+Time DS3231
+MicroSD Card Adapter
+
